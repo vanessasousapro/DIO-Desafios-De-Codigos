@@ -4,7 +4,6 @@
 
 ### Desafio 01📋- Manipulando Variáveis com JavaScript
 
-imagem...
 ```
 Descrição
 
@@ -28,7 +27,6 @@ Imprima a posição final do herói após dar a quantidade de passos especificad
 
 ### Desafio 02📋- Dominando Operadores com JavaScript
 
-imagem...
 ```
 Descrição:
 
@@ -68,7 +66,6 @@ Imprima a quantidade de XP ganhos após a batalha.
 
 ### Desafio 03📋- Explorando Condicionais com JavaScript
 
-imagem...
 ```
 Descrição:
 
@@ -86,7 +83,6 @@ A saída deve ser uma mensagem de boas-vindas que inclua o nome do Pokémon esco
 
 ### Desafio 04📋- Praticando Laços de Repetição com JavaScript
 
-imagem...
 ```
 Descrição:
 
@@ -114,7 +110,6 @@ Saída:
 
 ### Desafio 05📋- Dominando Funções com JavaScript
 
-imagem...
 ```
 Descrição:
 
